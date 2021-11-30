@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\tracs\\Desktop\\Circuitos\\ARDUI\\sketch\\CodigoArduino.ino.cpp",
+    "Include": "MatrizLed.h",
+    "Includepath": "C:\\Users\\tracs\\Documents\\Arduino\\libraries\\MatrizLed\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\tracs\\Desktop\\Circuitos\\ARDUI\\sketch\\CodigoArduino.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\tracs\\Documents\\Arduino\\libraries\\MatrizLed\\src\\MatrizLed.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
