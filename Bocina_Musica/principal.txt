@@ -1,0 +1,11 @@
+
+NOTAS:
+
+C = DO
+D = RE
+E = MI
+F = FA
+G = SOL
+A = LA
+B = SI
+S = sostenido (NOTE_ASS es LA sostenido)
